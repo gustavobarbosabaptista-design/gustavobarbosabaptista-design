@@ -23,6 +23,8 @@ assistentes que funcionam de verdade, inclusive rodando localmente, sem depender
 
 🌎 A Fujitec tem operação internacional, com filiais em **São Paulo**, **Rio de Janeiro**, **Macaé**, **Miami**, **Nova Zelândia** e **Paraguai**.
 
+🧩 Sou **CEO da One Project**, que desenvolve **soluções de software sob encomenda**.
+
 - 🧠 À frente de uma **IA proprietária**: a plataforma de **video analytics** da Fujitec (reconhecimento facial, detecção de armas, análise de tráfego)
 - 🛰️ Trabalho forte com **IoT e tempo real**: protocolos de dispositivos, WebSocket, backend e mobile num produto só
 - 🤖 **IA aplicada**: assistentes de voz, agentes com ferramentas e automação
