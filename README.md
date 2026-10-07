@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=CTO+%40+Fujitec;Liderando+tecnologia+e+produto;IA+aplicada+e+automa%C3%A7%C3%A3o;Da+ideia+ao+produto+rodando" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=CTO+%40+Fujitec;Software+para+a+ind%C3%BAstria+onshore+e+offshore;IA+aplicada+e+automa%C3%A7%C3%A3o;Da+ideia+ao+produto+rodando" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,8 +17,8 @@
 ### 👋 Sobre mim
 
 Sou o Gustavo, de São Paulo, **CTO da Fujitec**. Lidero a área de tecnologia e produto,
-da arquitetura à entrega, e continuo com a mão no código: IA aplicada, automação e
-assistentes que funcionam de verdade, inclusive rodando localmente, sem depender de nuvem.
+da arquitetura à entrega, e continuo com a mão no código. Meu foco é **software para a indústria
+onshore e offshore**: IA aplicada, automação e sistemas que funcionam de verdade em operação crítica.
 
 🌎 A Fujitec tem operação internacional, com filiais em **São Paulo**, **Rio de Janeiro**, **Macaé**, **Miami**, **Nova Zelândia** e **Paraguai**.
 
