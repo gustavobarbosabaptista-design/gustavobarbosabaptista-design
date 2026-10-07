@@ -8,8 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
-  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
+  <a href="mailto:gustavobarbosabaptista@gmail.com"><img src="https://img.shields.io/badge/gustavobarbosabaptista@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
   <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20BR-0d1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF" />
 </div>
 
@@ -72,7 +71,7 @@ Quando publicar algum projeto no GitHub, troque o card dele por um pin real:
 
 <div align="center">
   Aberto a projetos, parcerias e uma boa conversa sobre IA.<br/>
-  O jeito mais rápido de falar comigo é pelo LinkedIn.
+  Fale comigo em <a href="mailto:gustavobarbosabaptista@gmail.com">gustavobarbosabaptista@gmail.com</a>.
 </div>
 
 <!-- Rodapé -->
